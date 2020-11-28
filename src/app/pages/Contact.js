@@ -3,7 +3,6 @@ import React, { Component } from "react";
 import { Button, Table, Modal, Form, Col } from "react-bootstrap";
 // import { Link } from "react-router-dom";
 import Avatar from "react-avatar";
-import { Link } from "react-router-dom";
 import { addContact } from "../redux/contactSlice";
 import { connect } from "react-redux";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
